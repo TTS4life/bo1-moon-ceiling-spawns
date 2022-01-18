@@ -22,6 +22,9 @@ This will unfuck the ceiling spawn for more misery
 Useful commands to type while spanwing in:
 
 `/god` - turn on god mode
+
 `/sf_use_ignoreammo 1` - Ignore ammo counts (infinite ammo)
+
 `/give microwavegun_upgraded_zm` - give yourself Zap guns upgraded
+
 `/fix_ceiling 1` - Unfuck the ceiling (game sets it back to 0 after doing so)
